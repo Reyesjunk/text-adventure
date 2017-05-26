@@ -1,18 +1,18 @@
-#Text Based Adventure Game
+# Text Based Adventure Game
 
-##Introduction
+## Introduction
 This is project aims to create a text-based adventure game 
 
-##Intro
+## Intro
 At the intro page, the user can choose between: 1. Starting a new game
 2. If returning, continue where they left off.
 3. Read a 'How to play' of the game
 4. Exit the game.
 
-##Locations
+## Locations
 The player will explore locations using movement commands
 
-##Interaction
+## Interaction
 The player will be able to execute a number of actions:
 Observe: describes a players surroundings.
 Move: allows player to travers maps
@@ -23,20 +23,24 @@ Put: place an item in the environment
 
 
 
-#Combat
+# Combat
 The player will fight various enemies
 Attack: attack enemy
 Run: run away from enemy encounter
 
 
-##Stats
+## Stats
 Each player will be able to input their name
 The players stats will include:
 max-health: 100
 attack: 10
 defense: 5
 
-##Story
+## Story
 Explore various areas to gain some form of mcguffin. Hijicks will ensue and fun will be had by all!
 
 
+## To Play
+Make sure you have Python3 installed.
+Simply load the file in your terminal with
+```python3 text-adventure.py```
